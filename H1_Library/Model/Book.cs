@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace H1_Library.Model
 {
+    /// <summary>
+    /// This class is an object for a book. It has 4 properies. Title, description, release, genre.
+    /// </summary>
     internal class Book
     {
         private string _title;

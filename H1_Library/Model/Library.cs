@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace H1_Library.Model
 {
+    /// <summary>
+    /// This class just contains a list with a bunch of predefined values for books
+    /// </summary>
     internal class Library
     {
         // List of 23 books
